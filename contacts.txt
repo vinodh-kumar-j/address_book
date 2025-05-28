@@ -1,0 +1,4 @@
+3
+John Doe,1234567890,john@example.com
+Alice Smith,0987654321,alice@example.com
+Bob Johnson,1112223333,bob@company.com
